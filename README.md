@@ -11,6 +11,9 @@ JDBC ile hemen hemen tüm ilişkisel veri tabanı yönetim sistemlerine SQL sorg
 
 # Diagramlarımız
 ![diagram1](diagram.png)
+
+---
+
 ![diagram2](jdbc-architecture.png)
 
 
